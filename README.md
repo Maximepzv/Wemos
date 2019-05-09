@@ -56,6 +56,8 @@ You should also clone this repository under the path where your Arduino IDE is i
 
 ## Usage
 Using any Wi-Fi-enabled device with a browser (computer, phone, tablet), connect your browser to the wemos local IP address on port 3042. It should look like: 192.168.0.42:3042
+
 You can easily find it by using, for example, a mobile application that scans your network. Like "Fing" on Android. Don't forget the port at the end !
+
 You should now see a color picker on your browser and be able to control your LEDs.
 
